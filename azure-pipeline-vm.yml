@@ -6,7 +6,7 @@ pool:
 
 variables:
   azureSubscription: "service_conection_s8"
-  location: "eastus2"
+  location: "eastus"
   resourceGroupName: "resource_group_s8"
   virtualNetworkName: "VNet-Curso_DevOps"
   subnetName: "Subnet-Curso_DevOps"
